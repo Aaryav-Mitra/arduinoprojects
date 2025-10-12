@@ -12,4 +12,4 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building proj
 ## 🛠️ Projects
 
 - [cppprojects](https://github.com/Aaryav-Mitra/cppprojects): C++ projects and algorithms.
--
+- [htmlprojects](https://github.com/Aaryav-Mitra/htmlprojects): HTML projects.
